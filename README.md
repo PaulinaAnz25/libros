@@ -7,7 +7,7 @@ Para la creacion de una entidad Libro que incluya las varibles: id, titulo, auto
 
 
 
-CREACION DE LA CLASE LIBRO CON LOS CAMPOS, CON SUS GETTERS-SETTERS
+# CREACION DE LA CLASE LIBRO CON LOS CAMPOS, CON SUS GETTERS-SETTERS
 
 id: Long
 
@@ -23,14 +23,14 @@ año de Publicacion: Integer
 ![imagen](https://github.com/PaulinaAnz25/libros/assets/147875196/339c991f-1139-4901-a7b0-3a9aff8b9c7b)
 
 
-CREACIÓN DEL CONTROLLERS
+# CREACIÓN DEL CONTROLLERS
 
 Definicion de el get y post.
 
 ![imagen](https://github.com/PaulinaAnz25/libros/assets/147875196/b420addf-6fe3-47e4-96db-90b3b773548b)
 
 
-CREACIÓN DEL REPOSITORY
+# CREACIÓN DEL REPOSITORY
 
 "LibroRepository.java", "LibroRepositoryDemo.java" 
 
@@ -42,7 +42,7 @@ CREACIÓN DEL REPOSITORY
 
 
 
-CREACIÓN DEL SERVICES
+# CREACIÓN DEL SERVICES
 
 
  Llama a la instancia repository "LibroService.java" y el "LibroServiceImpl.java" sera nuestra interfaz
@@ -54,11 +54,11 @@ CREACIÓN DEL SERVICES
 
 
 
-EJECUCIÓN DEL WEB API
+# EJECUCIÓN DE WEB API
 
 ![imagen](https://github.com/PaulinaAnz25/libros/assets/147875196/c80f5851-5875-4b1f-89d2-8fbef018f5ac)
 
-PRUEBA EN POSTMAN
+# PRUEBA EN POSTMAN
 
 ![imagen](https://github.com/PaulinaAnz25/libros/assets/147875196/20954f6f-59a1-4993-b3e2-22004a0b48cc)
 
